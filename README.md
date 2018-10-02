@@ -1,3 +1,6 @@
+## Modified version of CoreUI.
+* See below for original documentations of CoreUI
+
 ## Table of Contents
 
 * [Versions](#versions)
